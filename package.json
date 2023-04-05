@@ -1,14 +1,11 @@
 {
-	"name": "bundler",
-	"version": "1.0.2",
+	"name": "is-bundler",
+	"version": "1.0.3",
 	"main": "index.js",
 	"license": "MIT",
 	"files": [
 		"./dist"
 	],
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com"
-	},
 	"repository": "git://github.com/suhailm-cv/bundler",
 	"scripts": {
 		"dev": "vite",
