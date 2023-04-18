@@ -1,6 +1,7 @@
 {
-	"name": "is-bundler",
-	"version": "1.0.7",
+	"name": "is-bundler-is",
+	"version": "1.0.8",
+	"private": false,
 	"main": "index.js",
 	"license": "MIT",
 	"files": [
@@ -33,5 +34,8 @@
 	"dependencies": {
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
