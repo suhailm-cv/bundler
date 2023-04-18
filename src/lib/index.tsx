@@ -1,4 +1,5 @@
 import React from 'react'
+export { default as MyFunction  } from './func'
 
 type Props = {
   greetee?: string
