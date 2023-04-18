@@ -1,5 +1,11 @@
 # is-bundler
 
+## 1.1.0
+
+### Minor Changes
+
+- f560f76: worked in local
+
 ## 1.0.8
 
 ### Patch Changes
