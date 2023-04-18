@@ -1,5 +1,11 @@
 # is-bundler
 
+## 1.0.8
+
+### Patch Changes
+
+- 535e34c: sadasda
+
 ## 1.0.7
 
 ### Patch Changes
