@@ -1,6 +1,6 @@
 {
 	"name": "is-bundler",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"main": "index.js",
 	"license": "MIT",
 	"files": [
@@ -13,7 +13,8 @@
 		"serve": "vite preview",
 		"test": "vitest",
 		"test:watch": "vitest --watch",
-		"test:coverage": "c8 vitest"
+		"test:coverage": "c8 vitest",
+		"release": "changeset version && changeset publish"
 	},
 	"devDependencies": {
 		"@changesets/cli": "^2.26.1",
