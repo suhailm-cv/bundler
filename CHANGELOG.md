@@ -1,5 +1,11 @@
 # is-bundler
 
+## 1.2.0
+
+### Minor Changes
+
+- c6e94bf: Test for minor
+
 ## 1.1.0
 
 ### Minor Changes
